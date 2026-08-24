@@ -1,3 +1,5 @@
+
+
 EN: I developed a data encryption software with password hashing functionality in my C++ thesis. 
 Implemented encryption (AES) and password hashing (SHA-256) algorithms. Used a database to store hashes of passwords and file names.
 Provided access to files by validating the entered password against the hash value. The program is a bit rough around the edges and may have bugs. 
